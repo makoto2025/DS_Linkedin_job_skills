@@ -8,9 +8,6 @@ This project analyzes 1.3M job postings from LinkedIn to identify the most in-de
 * **Visualization:** Streamlit & Python
 * **Original Source:** [1.3M LinkedIn Jobs and Skills 2024](https://www.kaggle.com/datasets/asaniczka/1-3m-linkedin-jobs-and-skills-2024/data)
 
-## Key Findings
-* (You will fill this in later...)
-
 ## Credits
 Originally developed as a group project with [Teammate 1] and [Teammate 2].
 This repository contains my personal refactoring and extension of the analysis.
