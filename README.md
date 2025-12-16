@@ -16,8 +16,6 @@ This repository contains my personal refactoring and extension of the analysis.
 
 > **[🔗 View the Interactive Report](https://ted-m-tech.github.io/data-science-1.3M-linkedin-jobs-skills/)** 
 
-![Report Thumbnail](docs/report/img/thumbnail.png)
-
 ---
 
 
