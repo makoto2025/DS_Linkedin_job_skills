@@ -70,7 +70,7 @@ Initial EDA confirmed the data integrity:
 
 ### 5.1 Top 10 Most Frequent Job Titles
 The analysis of cleaned job titles reveals that the volume of hiring is heavily skewed towards retail, healthcare, and service management rather than tech-specific roles.
-
+![Top 10 Most Frequent Job Titles](img/top10_job_titles.png)
 
 **Top 5 Roles by Volume:**
 1.  **LEAD SALES ASSOCIATE-FT**: 7,325 postings.
@@ -84,6 +84,7 @@ The analysis of cleaned job titles reveals that the volume of hiring is heavily 
 ### 5.2 Top In-Demand Skills
 By exploding the skills column and aggregating counts, we identified what employers value most.
 
+![Top 20 In-Demand Skills](img/top20_skills.png)
 
 **Key Findings:**
 * **Communication**: The #1 skill, appearing in **370,041** postings.
@@ -93,6 +94,8 @@ By exploding the skills column and aggregating counts, we identified what employ
 *Insight*: Technical skills like "Microsoft Office" and "Project Management" appear in the top 20, but they are significantly outnumbered by foundational soft skills. This suggests that for the majority of jobs, interpersonal effectiveness is the primary barrier to entry.
 
 ### 5.3 Job-Skill Correlation
+![Job-Skill Correlation](img/titles_skills.png)
+
 We merged titles with skills to see specific requirements for top roles:
 * **Hourly Supervisor & Training**: The top associated skill is **Inventory Management** (2,447 counts).
 * **Store Manager**: The top associated skill is **Customer Service** (3,900 counts).
