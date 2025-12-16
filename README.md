@@ -9,7 +9,7 @@ This project analyzes 1.3M job postings from LinkedIn to identify the most in-de
 * **Original Source:** [1.3M LinkedIn Jobs and Skills 2024](https://www.kaggle.com/datasets/asaniczka/1-3m-linkedin-jobs-and-skills-2024/data)
 
 ## Credits
-Originally developed as a group project with [Teammate 1] and [Teammate 2].
+Originally developed as a group project with Tetsuya(ted-M-tech) and Jonathan(Johnny7145).
 This repository contains my personal refactoring and extension of the analysis.
 
 [![Live Report](https://img.shields.io/badge/📊_Live_Report-View_Now-38bdf8?style=for-the-badge)](https://ted-m-tech.github.io/data-science-1.3M-linkedin-jobs-skills/)
