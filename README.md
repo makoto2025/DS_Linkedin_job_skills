@@ -11,13 +11,7 @@ This project analyzes 1.3M job postings from LinkedIn to identify the most in-de
 ## Credits
 Originally developed as a group project with Tetsuya(ted-M-tech) and Jonathan(Johnny7145).
 This repository contains my personal refactoring and extension of the analysis.
-
-[![Live Report](https://img.shields.io/badge/📊_Live_Report-View_Now-38bdf8?style=for-the-badge)](https://ted-m-tech.github.io/data-science-1.3M-linkedin-jobs-skills/)
-
-> **[🔗 View the Interactive Report](https://ted-m-tech.github.io/data-science-1.3M-linkedin-jobs-skills/)** 
-
 ---
-
 
 ## Development Conventions
 
